@@ -9,6 +9,7 @@ This is the source code for a sensor-based human activity recognition android ap
 ## Dependencies
 
 - Python 3.6 <br/>
+- Tensorflow 1.13.1
 - Keras <br/>
 
 ## Instructions
